@@ -1,5 +1,5 @@
 # Big_Data
 Higher order function<br>
-#Map Reduce
-#Spark
-#pyspark
+Map Reduce<br>
+Spark<br>
+pyspark<br>
